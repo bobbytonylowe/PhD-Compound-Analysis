@@ -1,10 +1,15 @@
 # PhD_screeningcompound_analysis
-- My PhD involved synthesising compounds that would be good starting points in drug discovery. 
-- The compound properties were analysed using python and used in my thesis.
-- The compounds I synthesised were sent for biological evaluation to a set of universities around the world.
 
-# Results
-- I recieved the results from each university where I combined each excel spread sheet using python.
+-	My PhD has consisted of developing molecular scaffolds with pharmacological parameters appropriate for drug discovery with the use of computational analysis. 
+- I have designed and synthesised a library of novel compounds, and interpreted complex domain-specific data (> 200 compounds).
 
-# Summary
-- This repository shows the combination of data and an analysis of the compounds.
+# Results (All compounds and analysis.ipynb)
+- I have recieved various biological results from a range of collaborators. 
+- The records were combined using python.
+
+# Analysis (Analysis of merged data.ipynb)
+- Here the data was visualised and used within my thesis. 
+
+# PMI.ipynb
+- This file involves the code to produce a PMI plot, which was used several times to visualise thousands of compounds.
+ 
