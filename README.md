@@ -7,7 +7,7 @@
 - I have recieved various biological results from a range of collaborators. 
 - The records were combined using python.
 
-# Analysis (Analysis of merged data.ipynb)
+# Analysis (PhD analysis.ipynb)
 - Here the data was visualised and used within my thesis. 
 
 # PMI.ipynb
