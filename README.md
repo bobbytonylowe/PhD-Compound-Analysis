@@ -13,3 +13,6 @@
 # PMI.ipynb
 - This file involves the code to produce a PMI plot, which was used several times to visualise thousands of compounds.
  
+# Filtering_data
+- Here I have included some of the ways I filtered my data
+- This includes using SQL in python
